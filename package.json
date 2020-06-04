@@ -1,0 +1,19 @@
+{
+  "name": "vanilla_projects",
+  "version": "1.0.0",
+  "description": "These are some vanillar JS projects that for some reason or another I have enjoyed building",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlgerman25/vanilla_projects.git"
+  },
+  "author": "Ronard Luna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlgerman25/vanilla_projects/issues"
+  },
+  "homepage": "https://github.com/rlgerman25/vanilla_projects#readme"
+}
